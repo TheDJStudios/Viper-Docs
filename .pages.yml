@@ -1,0 +1,38 @@
+media:
+  input: static/images
+  output: /images
+
+content:
+  - name: wiki
+    label: Wiki Pages
+    type: collection
+    path: content/docs
+    view:
+      fields: [title, date, draft]
+      sort: [weight, title]
+      default:
+        sort: weight
+        order: asc
+    fields:
+      - name: title
+        label: Title
+        type: string
+      - name: date
+        label: Date
+        type: date
+        options:
+          format: yyyy-MM-dd
+      - name: description
+        label: Description
+        type: text
+      - name: draft
+        label: Draft
+        type: boolean
+        default: false
+      - name: weight
+        label: Sidebar Order
+        type: number
+        description: Lower = higher in sidebar. Leave blank for alphabetical.
+      - name: body
+        label: Body
+        type: rich-text
