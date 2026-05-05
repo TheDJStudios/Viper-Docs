@@ -20,6 +20,7 @@ print(twopi);
  such as `$ variablename:`.
 
  To set a variable type. Append one of the folowing types to right after the colon `:`
+ 
  `int`
  `double`
  `bool`
