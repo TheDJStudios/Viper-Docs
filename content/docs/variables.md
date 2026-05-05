@@ -48,3 +48,8 @@ print(twopi);
     print("Exactly pi");
  }
  ```
+
+ ## Editing a variable
+ To edit a variable after its been declared. you want to use the following:
+ `$variablename = value1`
+ thats all. just put that where code gets ran and it will edit the variable thats in place of `variablename` with the value of `value1` as long as they match types
