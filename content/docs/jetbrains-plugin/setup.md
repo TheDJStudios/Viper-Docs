@@ -2,6 +2,7 @@
 title: JetBrains setup
 date: 2026-05-09
 draft: false
+weight: 10
 ---
 
 This is for setting up the Viper JetBrains plugin in an IntelliJ based IDE. Such as IntelliJ IDEA, PyCharm, WebStorm, CLion, or another JetBrains IDE.

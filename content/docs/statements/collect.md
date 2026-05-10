@@ -2,6 +2,7 @@
 title: Collect statements
 date: 2026-05-09
 draft: false
+weight: 60
 ---
 
 Collect is used to read input from the user.

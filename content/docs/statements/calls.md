@@ -2,6 +2,7 @@
 title: Function call statements
 date: 2026-05-09
 draft: false
+weight: 40
 ---
 
 Function calls run a function by name.

@@ -1,0 +1,21 @@
+:root {
+  --primary-hue: 148deg;
+  --primary-saturation: 70%;
+  --primary-lightness: 42%;
+}
+
+.content code:not(.code-block code) {
+  color: #15803d;
+}
+
+.dark .content code:not(.code-block code) {
+  color: #4ade80;
+}
+
+.content table {
+  font-size: 0.95rem;
+}
+
+.content th {
+  white-space: nowrap;
+}

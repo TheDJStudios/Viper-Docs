@@ -2,6 +2,7 @@
 title: Print statements
 date: 2026-05-09
 draft: false
+weight: 20
 ---
 
 Print statements write a value to the screen.

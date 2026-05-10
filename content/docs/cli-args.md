@@ -2,6 +2,7 @@
 title: Args
 date: 2026-05-09
 draft: false
+weight: 110
 ---
 
 Viper has two built in values for command line args.

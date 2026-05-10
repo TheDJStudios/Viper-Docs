@@ -2,6 +2,7 @@
 title: Return statements
 date: 2026-05-09
 draft: false
+weight: 50
 ---
 
 Return statements send a value back from a function.

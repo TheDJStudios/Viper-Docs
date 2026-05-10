@@ -2,6 +2,7 @@
 title: Variable statements
 date: 2026-05-09
 draft: false
+weight: 10
 ---
 
 Variable statements make or edit variables.

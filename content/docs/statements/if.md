@@ -2,6 +2,7 @@
 title: If statements
 date: 2026-04-07
 draft: false
+weight: 30
 ---
 
 If statements can be used to run a chunk of code based off of if a value matches another value.

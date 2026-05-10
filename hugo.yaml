@@ -10,6 +10,10 @@ module:
   mounts:
     - source: content
       target: content
+    - source: assets
+      target: assets
+    - source: static
+      target: static
 
 markup:
   goldmark:
@@ -22,6 +26,15 @@ params:
   author:
     name: TheDJStudios
     email: null@tamastudios.us
+  theme:
+    default: system
+    displayToggle: true
+  page:
+    width: wide
+  navbar:
+    width: wide
+  footer:
+    width: wide
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
   editURL:

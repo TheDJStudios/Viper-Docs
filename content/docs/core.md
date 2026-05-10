@@ -2,6 +2,7 @@
 title: Viper core
 date: 2026-05-09
 draft: false
+weight: 10
 ---
 
 Viper core is the part that knows how to read Viper code.

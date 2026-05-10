@@ -2,6 +2,7 @@
 title: Comments
 date: 2026-05-09
 draft: false
+weight: 120
 ---
 
 Comments are for leaving notes in your code that Viper ignores.

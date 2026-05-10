@@ -2,6 +2,7 @@
 title: Values and literals
 date: 2026-05-09
 draft: false
+weight: 30
 ---
 
 Literals are values you write straight into the file.

@@ -2,6 +2,7 @@
 title: Variables
 date: 2026-05-05
 draft: false
+weight: 40
 ---
 
 Variables are useful for keeping info that needs to be used over and over again globally or locally. Such as getting a current state from another file to use in your current file. 

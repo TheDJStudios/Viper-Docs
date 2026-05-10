@@ -2,6 +2,7 @@
 title: Try statements
 date: 2026-05-09
 draft: false
+weight: 70
 ---
 
 Try statements run a block and ignore Viper runtime errors from inside that block.

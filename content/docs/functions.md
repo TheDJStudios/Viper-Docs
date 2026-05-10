@@ -2,6 +2,7 @@
 title: Functions
 date: 2026-05-09
 draft: false
+weight: 80
 ---
 
 Functions are named chunks of code you can call later.

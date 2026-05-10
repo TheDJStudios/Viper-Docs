@@ -2,6 +2,7 @@
 title: Types
 date: 2026-05-09
 draft: false
+weight: 20
 ---
 
 Types tell Viper what kind of value a variable or function is supposed to use.

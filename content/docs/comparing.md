@@ -2,6 +2,7 @@
 title: Comparing values
 date: 2026-04-07
 draft: false
+weight: 70
 ---
 
 When using if statements or anything else that youd need to compare values for. it may be useful to check to see if ones greater than the other.

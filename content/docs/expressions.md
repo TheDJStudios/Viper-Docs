@@ -2,6 +2,7 @@
 title: Expressions
 date: 2026-05-09
 draft: false
+weight: 50
 ---
 
 Expressions are values that Viper can figure out while running.
