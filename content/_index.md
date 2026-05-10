@@ -8,6 +8,8 @@ layout: hextra-home
 <span>5/5/2026</span>
 {{< /hextra/hero-badge >}}
 
+<img class="viper-hero-mark" src="logo.svg" alt="Viper logo">
+
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-headline >}}
   Viper Docs
