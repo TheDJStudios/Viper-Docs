@@ -6,7 +6,7 @@ draft: false
 
 I'm going to keep this short since we all know math and operators. heres how to do the following with things like variables or comparing:
 
-`*` Multipy by
+`*` Multiply by
 `+` Add
 `-` Subtract
 `/` Divide by
@@ -14,7 +14,19 @@ I'm going to keep this short since we all know math and operators. heres how to 
 `<` less than
 `=` Equal to
 
+You can also put `-` before a number or variable to make it negative.
+
+```Vp
+$ score: int = -10;
+```
+
 
  ## Operators:
  
- `and` If two or more requirements are true
+ `and` If two requirements are true
+
+ ```Vp
+ if (ready == true and count > 0) {
+    print("Running");
+ }
+ ```

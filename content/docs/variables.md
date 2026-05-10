@@ -43,7 +43,7 @@ print(twopi);
  $ variablename: double = 3.14;
 
  print(variablename);
- % or to use it in an if statement:
+ // or to use it in an if statement:
 
  if (variablename == 3.14) {
     print("Exactly pi");

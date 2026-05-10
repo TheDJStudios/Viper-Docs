@@ -10,7 +10,7 @@ If statements can be used to run a chunk of code based off of if a value matches
  To use an if statement. Write the following:
  ```Vp
  if (Value1 == value2) {
-    % code here
+    // code here
  }
  ```
  If you use the code above. replace value1 with the variable you want to check against. then replace value2 with the value you want to see if value1 matches.

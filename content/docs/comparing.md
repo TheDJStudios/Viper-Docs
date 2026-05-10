@@ -8,6 +8,11 @@ When using if statements or anything else that youd need to compare values for. 
 
 wherever we use `==` in these docs. you can use the following instead:
 
-`<=` - If value A is less than value b
-`>=` - If value A is greater than value b
+`<` - If value A is less than value b
+`>` - If value A is greater than value b
+`<=` - If value A is less than or equal to value b
+`>=` - If value A is greater than or equal to value b
 `!=` - If value A is not equal to value b
+
+Comparing with `<`, `<=`, `>` and `>=` is for numbers.
+`==` and `!=` can be used with values that are the same kind of value, like a string to another string or a bool to another bool.
